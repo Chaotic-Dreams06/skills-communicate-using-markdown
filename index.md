@@ -7,3 +7,8 @@
 
 
 ![Image of Birds](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbsTYRSronvcL9zylm_046CQAtq6X1szXlzw&s)
+
+
+``` javascript
+var birds = "Birds fly effortleslly through the sky ";
+```
