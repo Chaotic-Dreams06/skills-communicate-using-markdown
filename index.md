@@ -12,3 +12,8 @@
 ``` javascript
 var birds = "Birds fly effortleslly through the sky ";
 ```
+
+
+- [x] Birds dance through the sky
+- [x] Birds are beautiful
+- [ ] Birds fly
